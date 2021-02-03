@@ -1,0 +1,24 @@
+#content {
+    text-align: center;
+    max-width: 25rem;
+    margin: 2rem auto;
+    background-color: rgb(230, 235, 245);
+    padding: 1.5rem;
+    border-radius: 1rem;
+}
+
+label, input {
+    margin: 1rem auto;
+    display: block;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+input {
+    border-radius: 0.2rem;
+    border: 2px solid rgb(243, 244, 255);
+}
+
+.bold {
+    font-weight: bold;
+}
